@@ -50,7 +50,7 @@ const Footer = () => {
             <ul className="space-y-2">
               <li className="flex items-center text-gray-400">
                 <Phone size={16} className="mr-2" />
-                +91 98765 43210
+                +91 9052702609
               </li>
               <li className="flex items-center text-gray-400">
                 <Mail size={16} className="mr-2" />
@@ -58,14 +58,14 @@ const Footer = () => {
               </li>
               <li className="flex items-start text-gray-400">
                 <MapPin size={16} className="mr-2 mt-1" />
-                123 Party Street, Hyderabad, India
+                Opposite HK Tent House, RTC Colony, Moula Ali, Hyderabad-500040
               </li>
             </ul>
           </div>
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 MyCelebria. All rights reserved.</p>
+          <p>&copy; 2026 MyCelebria. All rights reserved.</p>
         </div>
       </div>
     </footer>
