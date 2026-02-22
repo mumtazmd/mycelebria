@@ -1,0 +1,40 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "vendorId": 1,
+      "userId": 1,
+      "userName": "John Doe",
+      "rating": 5,
+      "comment": "Excellent service! The decorations were beautiful and the team was very professional.",
+      "date": "2024-01-15"
+    },
+    {
+      "id": 2,
+      "vendorId": 1,
+      "userId": 2,
+      "userName": "Jane Smith",
+      "rating": 4,
+      "comment": "Great work, slightly delayed but overall good experience.",
+      "date": "2024-01-10"
+    },
+    {
+      "id": 3,
+      "vendorId": 2,
+      "userId": 1,
+      "userName": "John Doe",
+      "rating": 5,
+      "comment": "Kids loved the superhero theme! Highly recommended.",
+      "date": "2024-02-01"
+    },
+    {
+      "id": 4,
+      "vendorId": 3,
+      "userId": 2,
+      "userName": "Jane Smith",
+      "rating": 5,
+      "comment": "Perfect house warming ceremony setup. Very traditional and elegant.",
+      "date": "2024-01-20"
+    }
+  ]
+}

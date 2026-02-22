@@ -1,0 +1,30 @@
+{
+  "bookings": [
+    {
+      "id": 1,
+      "userId": 1,
+      "vendorId": 1,
+      "vendorName": "Elite Decorators",
+      "date": "2024-03-15",
+      "time": "14:00",
+      "status": "confirmed",
+      "totalAmount": 5000,
+      "eventType": "Birthday Party",
+      "location": "Mumbai",
+      "createdAt": "2024-02-20"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "vendorId": 2,
+      "vendorName": "Kids Paradise Events",
+      "date": "2024-04-10",
+      "time": "10:00",
+      "status": "pending",
+      "totalAmount": 7500,
+      "eventType": "Kids Birthday",
+      "location": "Delhi",
+      "createdAt": "2024-02-21"
+    }
+  ]
+}

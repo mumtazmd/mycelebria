@@ -1,0 +1,60 @@
+{
+  "menuItems": [
+    {
+      "id": 1,
+      "label": "Birthday",
+      "slug": "birthday",
+      "children": [
+        {
+          "id": 11,
+          "label": "Birthday Decorations",
+          "slug": "birthday-decorations"
+        },
+        {
+          "id": 12,
+          "label": "Kids Theme Decorations",
+          "slug": "kids-theme-decorations"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "label": "Decorations",
+      "slug": "decorations",
+      "children": []
+    },
+    {
+      "id": 3,
+      "label": "Corporate Planner",
+      "slug": "corporate-planner",
+      "children": []
+    },
+    {
+      "id": 4,
+      "label": "Occasions",
+      "slug": "occasions",
+      "children": [
+        {
+          "id": 41,
+          "label": "House Warming",
+          "slug": "house-warming"
+        },
+        {
+          "id": 42,
+          "label": "Naming Ceremony",
+          "slug": "naming-ceremony"
+        },
+        {
+          "id": 43,
+          "label": "Baby Shower",
+          "slug": "baby-shower"
+        },
+        {
+          "id": 44,
+          "label": "Surprises",
+          "slug": "surprises"
+        }
+      ]
+    }
+  ]
+}

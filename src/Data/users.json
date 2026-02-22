@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password123",
+      "role": "user",
+      "phone": "+91 98765 43210",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password123",
+      "role": "user",
+      "phone": "+91 98765 43211",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200"
+    },
+    {
+      "id": 3,
+      "name": "Elite Decorators Team",
+      "email": "vendor@elitedecorators.com",
+      "password": "vendor123",
+      "role": "vendor",
+      "phone": "+91 98765 43212",
+      "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=200",
+      "vendorId": 1
+    }
+  ]
+}

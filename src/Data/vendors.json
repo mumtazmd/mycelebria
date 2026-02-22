@@ -1,0 +1,121 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "name": "Elite Decorators",
+      "categorySlug": "birthday-decorations",
+      "rating": 4.8,
+      "reviewCount": 127,
+      "price": 5000,
+      "location": "Mumbai, Maharashtra",
+      "image": "https://images.unsplash.com/photo-1478146059778-26028b07395a?w=800",
+      "description": "Premium birthday decoration services with customizable themes",
+      "services": ["Balloon Decor", "Theme Setup", "Cake Table", "Photo Booth"],
+      "phone": "+91 98765 43210",
+      "email": "elite@decorators.com"
+    },
+    {
+      "id": 2,
+      "name": "Kids Paradise Events",
+      "categorySlug": "kids-theme-decorations",
+      "rating": 4.9,
+      "reviewCount": 89,
+      "price": 7500,
+      "location": "Delhi, NCR",
+      "image": "https://images.unsplash.com/photo-1530103862676-de3c9a59aa38?w=800",
+      "description": "Specialized in kids birthday themes including superheroes, princesses, and cartoons",
+      "services": ["Character Mascots", "Theme Decor", "Games", "Return Gifts"],
+      "phone": "+91 98765 43211",
+      "email": "info@kidsparadise.com"
+    },
+    {
+      "id": 3,
+      "name": "Grand Celebrations",
+      "categorySlug": "house-warming",
+      "rating": 4.7,
+      "reviewCount": 156,
+      "price": 8000,
+      "location": "Bangalore, Karnataka",
+      "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+      "description": "Traditional and modern house warming ceremonies",
+      "services": ["Pooja Setup", "Floral Decor", "Catering", "Photography"],
+      "phone": "+91 98765 43212",
+      "email": "contact@grandcelebrations.com"
+    },
+    {
+      "id": 4,
+      "name": "Corporate Events Pro",
+      "categorySlug": "corporate-planner",
+      "rating": 4.9,
+      "reviewCount": 203,
+      "price": 25000,
+      "location": "Hyderabad, Telangana",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800",
+      "description": "End-to-end corporate event management",
+      "services": ["Venue Selection", "AV Setup", "Catering", "Team Building"],
+      "phone": "+91 98765 43213",
+      "email": "business@corporateevents.com"
+    },
+    {
+      "id": 5,
+      "name": "Surprise Masters",
+      "categorySlug": "surprises",
+      "rating": 4.6,
+      "reviewCount": 78,
+      "price": 3500,
+      "location": "Pune, Maharashtra",
+      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800",
+      "description": "Creative surprise party planners",
+      "services": [
+        "Flash Mobs",
+        "Surprise Decor",
+        "Gift Arrangements",
+        "Video Messages"
+      ],
+      "phone": "+91 98765 43214",
+      "email": "hello@surprisemasters.com"
+    },
+    {
+      "id": 6,
+      "name": "Baby Bliss Events",
+      "categorySlug": "baby-shower",
+      "rating": 4.8,
+      "reviewCount": 134,
+      "price": 6000,
+      "location": "Chennai, Tamil Nadu",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800",
+      "description": "Beautiful baby shower celebrations",
+      "services": ["Gender Reveal", "Decor", "Games", "Favors"],
+      "phone": "+91 98765 43215",
+      "email": "info@babybliss.com"
+    },
+    {
+      "id": 7,
+      "name": "Traditional Ties",
+      "categorySlug": "naming-ceremony",
+      "rating": 4.7,
+      "reviewCount": 92,
+      "price": 12000,
+      "location": "Jaipur, Rajasthan",
+      "image": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=800",
+      "description": "Authentic traditional naming ceremonies",
+      "services": ["Ritual Setup", "Priest Services", "Prasad", "Photography"],
+      "phone": "+91 98765 43216",
+      "email": "traditions@traditionalties.com"
+    },
+    {
+      "id": 8,
+      "name": "Party Decor Hub",
+      "categorySlug": "decorations",
+      "rating": 4.5,
+      "reviewCount": 245,
+      "price": 4000,
+      "location": "Kolkata, West Bengal",
+      "image": "https://images.unsplash.com/photo-1478146059778-26028b07395a?w=800",
+      "description": "Affordable decoration services for all occasions",
+      "services": ["Balloons", "Flowers", "Lighting", "Stage Setup"],
+      "phone": "+91 98765 43217",
+      "email": "book@partydecorhub.com"
+    }
+  ]
+}
